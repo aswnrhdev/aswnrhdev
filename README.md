@@ -33,7 +33,7 @@
 ## How to Reach Me
 
 <p>
-  Feel free to contact me via email at <a href="mailto:aswnrh.dev@gmail.com">aswnrh.dev@gmail.com</a>.
+  Feel free to contact me via email at <a href="mailto:aswnrh.dev@gmail.com">aswnrh.dev@gmail.com</a>
 </p>
 
 <!-- Technologies and Tools -->
