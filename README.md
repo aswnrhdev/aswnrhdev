@@ -8,7 +8,7 @@
 <p align="center">
   <samp>
     <br>
-    「 I'm a full stack developer based in <b>India</b>, proficient in crafting dynamic web applications from front-end to back-end. Enthusiastic about harnessing technology to enhance business expansion and user interaction. 」
+    「 I'm a MERN developer based in <b>India</b>, proficient in crafting dynamic web applications from front-end to back-end. Enthusiastic about harnessing technology to enhance business expansion and user interaction. 」
     <br><br>
   </samp>
 </p>
