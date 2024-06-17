@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin Ramesh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <p>  
-   I’m a skilled MERN stack developer based in India, specializing in web development. My expertise spans both front-end and back-end technologies, allowing me to create dynamic and responsive web applications tailored to clients and users unique needs. From conceptualization and design to implementation and deployment, I’m committed to delivering high-quality, scalable solutions that drive business growth and enhance user engagement.
+I am a self-taught MERN developer who loves to build scalable web applications. I have hands-on experience with tools such as JavaScript, Node.js, Express, MongoDB, PostgreSQL, AWS, React, Tailwind CSS, Firebase, and GitHub. I hold a Bachelor's degree in Computer Science from NMSM Government College Wayanad, affiliated with Calicut University. Throughout my education and career, I have completed multiple projects integrating these tools and technologies. I am always eager to take on exciting new projects and look forward to tackling more adventures in the field of web development.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswnrhdev&label=Profile%20views&color=0e75b6&style=flat" alt="aswnrhdev" /> </p>
