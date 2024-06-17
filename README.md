@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aswin Ramesh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<p>  
+   I’m a skilled MERN stack developer based in India, specializing in web development. My expertise spans both front-end and back-end technologies, allowing me to create dynamic and responsive web applications tailored to clients and users unique needs. From conceptualization and design to implementation and deployment, I’m committed to delivering high-quality, scalable solutions that drive business growth and enhance user engagement.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswnrhdev&label=Profile%20views&color=0e75b6&style=flat" alt="aswnrhdev" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswnrhdev" alt="aswnrhdev" /></a> </p>
 📫 How to reach me aswnrhdev@gmail.com
