@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aswnrhdev&show_icons=true&locale=en&layout=compact" alt="aswnrhdev" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswnrhdev&show_icons=true&locale=en" alt="aswnrhdev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswnrhdev&" alt="aswnrhdev" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswnrhdev&" alt="aswnrhdev" /></p> -->
