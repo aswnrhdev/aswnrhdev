@@ -18,10 +18,10 @@
 
 ##  > About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone"  width="40px" />
 
-- 👋 Hi, I’m @AnsilNaseem
+- 👋 Hi, I’m @Aswin
 - 🍄 I'm 21 years old                                                                        
 - 👀 I’m interested in Science,Engineering, Tech, Programming, Gaming ...
-- 🍃 I’m a Pre-final year B.Tech Computer Science & Engineering Student.
+- 🍃 I hold a degree in Computer Science.
 
 <br>
 
