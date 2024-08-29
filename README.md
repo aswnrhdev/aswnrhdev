@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<p>📫 How to reach me: <a href="mailto:aswnrh.dev@gmail.com">aswnrh.dev@gmail.com</a></p>
+<p>📫 How to reach me <a href="mailto:aswnrh.dev@gmail.com">aswnrh.dev@gmail.com</a></p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
